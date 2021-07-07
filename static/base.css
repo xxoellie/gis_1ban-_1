@@ -1,0 +1,17 @@
+.pragmatic_header_logo {
+    margin: 2rem ;
+    font-family: 'Rock Salt', cursive;
+}
+
+.pragmatic_header_button {
+    margin-bottom: 2rem;
+}
+
+.pragmatic_footer_logo{
+    margin: 1.5rem 0;
+    font-family: 'Rock Salt', cursive;
+}
+
+.pragmatic_footer_button {
+    margin-top: 2rem;
+}
