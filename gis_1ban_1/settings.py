@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'accountapp',
     'profileapp',
     'articleapp',
+    'commentapp'
     ]
 
 MIDDLEWARE = [
@@ -87,6 +88,7 @@ TEMPLATES = [
         },
     },
 ]
+
 
 WSGI_APPLICATION = 'gis_1ban_1.wsgi.application'
 
