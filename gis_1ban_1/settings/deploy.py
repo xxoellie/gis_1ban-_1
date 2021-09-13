@@ -1,4 +1,4 @@
-from base import *
+from .base import *
 
 env_list = dict()
 
