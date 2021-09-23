@@ -13,7 +13,7 @@ services:
     - 80:80
 
   django:
-    image: finally_image:latest
+    image: gis_1ban_django:final
     networks:
       - gis_1ban_network
     secrets:
